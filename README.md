@@ -33,6 +33,7 @@ The **Simon Says** game is a classic memory-based game where players must repeat
 
 ## 📸 Screenshots
 ![Simon Says Game](https://via.placeholder.com/600x300)
+<img src ="https://github.com/Rupesh72550/Simon_Says/blob/e321880a19aa574643c12722c20b11115d1669f3/Screenshort/Screenshot%202025-02-10%20202424.png">
 <img src ="https://github.com/Rupesh72550/Simon_Says/blob/7156b6939de0ee606f5f53b4515887ce1320702e/Screenshort/Screenshot%202025-02-10%20202357.png">
 
 ## 💡 Future Enhancements
